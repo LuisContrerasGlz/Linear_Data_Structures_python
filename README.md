@@ -5,7 +5,7 @@
 This contains the projects from CodeCademy Linear Data Structures with Python program, used to practice and improve on getting experience with Python programming language.
 
 
-![Cert](./certificatep.png)
+![Cert](./Linear DS.png)
 
 Verify certificate at https://www.codecademy.com/profiles/contrerasgonzalezluisfcogmail.com/certificates/79735c9d76222d32368a4e4f1fb2580f
 
